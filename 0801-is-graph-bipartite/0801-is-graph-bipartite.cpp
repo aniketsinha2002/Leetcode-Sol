@@ -1,38 +1,41 @@
 class Solution {
 public:
-    bool DFS(vector<vector<int>>& adj, int u, vector<int>& colour, int currColour)
+    bool BFS(vector<vector<int>>& adj, int u, vector<int>& colour, int currColour)
     {
-        colour[u] = currColour; //green
+        queue<int> q;
 
-        for(auto &v: adj[u])
+        q.push(u);
+        colour[u] = currColour;
+
+        while(!q.empty())
         {
-            if(colour[v] == currColour) // if its neighbour also green means visited and same colour
-                return false;
+            int u = q.front();
+            q.pop();
 
-            if(colour[v] == -1)
+            for(auto& v: adj[u])
             {
-                //dfs call
-                bool ans = DFS(adj, v, colour, !currColour);
-
-                //if in any point of time we encounter we cannot colour the way its required we will leave
-                if(!ans) return false;         
+                if(colour[v] == colour[u]) return false;
+                
+                if(colour[v] == -1)
+                {
+                    colour[v] = !colour[u];
+                    q.push(v);
+                }
             }
-            //if its neighbour is red means ok but its already visited so skip
         }
         return true;
     }
-
     bool isBipartite(vector<vector<int>>& graph) {
+        //using bfs
         int n = graph.size();
-        vector<int> colour(n,-1); // 0 -> green, 1 -> red
-
+        vector<int> colour(n, -1); // green -> 0, red -> 1
         int currColour = 0;
 
-        for(int node =0; node<n; node++)
+        for(int node=0; node<n; node++)
         {
             if(colour[node] == -1)
             {
-                if(!DFS(graph, node, colour, currColour))
+                if(!BFS(graph, node, colour, currColour))
                     return false;
             }
         }
