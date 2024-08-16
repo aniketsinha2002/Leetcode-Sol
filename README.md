@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0540-single-element-in-a-sorted-array) |
+| [0985-bag-of-tokens](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0985-bag-of-tokens) |
 | [1032-satisfiability-of-equality-equations](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1032-satisfiability-of-equality-equations) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
@@ -80,4 +81,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+## Two Pointers
+|  |
+| ------- |
+| [0985-bag-of-tokens](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0985-bag-of-tokens) |
+## Greedy
+|  |
+| ------- |
+| [0985-bag-of-tokens](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0985-bag-of-tokens) |
+## Sorting
+|  |
+| ------- |
+| [0985-bag-of-tokens](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0985-bag-of-tokens) |
 <!---LeetCode Topics End-->
