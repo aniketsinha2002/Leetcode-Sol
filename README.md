@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1032-satisfiability-of-equality-equations](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1032-satisfiability-of-equality-equations) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1753-path-with-minimum-effort) |
@@ -65,5 +66,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1753-path-with-minimum-effort](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1753-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
