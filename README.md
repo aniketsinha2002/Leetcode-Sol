@@ -47,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0985-bag-of-tokens) |
 | [1032-satisfiability-of-equality-equations](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1032-satisfiability-of-equality-equations) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1753-path-with-minimum-effort](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1753-path-with-minimum-effort) |
 ## String
 |  |
 | ------- |
 | [1032-satisfiability-of-equality-equations](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1032-satisfiability-of-equality-equations) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -93,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0985-bag-of-tokens](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0985-bag-of-tokens) |
+## Backtracking
+|  |
+| ------- |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 <!---LeetCode Topics End-->
