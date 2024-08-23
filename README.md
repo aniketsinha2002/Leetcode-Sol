@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0592-fraction-addition-and-subtraction) |
 | [1032-satisfiability-of-equality-equations](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1032-satisfiability-of-equality-equations) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Heap (Priority Queue)
@@ -110,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0090-subsets-ii) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+## Math
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0592-fraction-addition-and-subtraction) |
+## Simulation
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0592-fraction-addition-and-subtraction) |
 <!---LeetCode Topics End-->
