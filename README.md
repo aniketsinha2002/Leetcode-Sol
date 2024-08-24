@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1582-design-browser-history](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1582-design-browser-history) |
 | [1753-path-with-minimum-effort](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1753-path-with-minimum-effort) |
 ## String
 |  |
@@ -129,8 +130,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0380-insert-delete-getrandom-o1) |
+| [1582-design-browser-history](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1582-design-browser-history) |
 ## Randomized
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0380-insert-delete-getrandom-o1) |
+## Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1582-design-browser-history) |
+## Stack
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1582-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
