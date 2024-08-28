@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0801-is-graph-bipartite) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1753-path-with-minimum-effort) |
+| [2035-count-sub-islands](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1753-path-with-minimum-effort) |
+| [2035-count-sub-islands](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1753-path-with-minimum-effort) |
+| [2035-count-sub-islands](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/2035-count-sub-islands) |
 ## Graph
 |  |
 | ------- |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1582-design-browser-history](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1582-design-browser-history) |
 | [1753-path-with-minimum-effort](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1753-path-with-minimum-effort) |
+| [2035-count-sub-islands](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/2035-count-sub-islands) |
 ## String
 |  |
 | ------- |
@@ -76,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0074-search-a-2d-matrix) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1753-path-with-minimum-effort) |
+| [2035-count-sub-islands](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/2035-count-sub-islands) |
 ## Binary Search
 |  |
 | ------- |
