@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0070-climbing-stairs) |
 | [0583-delete-operation-for-two-strings](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0583-delete-operation-for-two-strings) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0070-climbing-stairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0380-insert-delete-getrandom-o1) |
 | [0592-fraction-addition-and-subtraction](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0592-fraction-addition-and-subtraction) |
 ## Simulation
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1582-design-browser-history) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
