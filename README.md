@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0592-fraction-addition-and-subtraction) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1032-satisfiability-of-equality-equations](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1032-satisfiability-of-equality-equations) |
+| [1250-longest-common-subsequence](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1250-longest-common-subsequence) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Heap (Priority Queue)
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0300-longest-increasing-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0583-delete-operation-for-two-strings) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/0962-flip-string-to-monotone-increasing) |
+| [1250-longest-common-subsequence](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/aniketsinha2002/Leetcode-Sol/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 ## Two Pointers
